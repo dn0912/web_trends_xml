@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!ELEMENT europe_countries (country*)>
-<!ELEMENT country (name, population, capital, city*)>
+<!ELEMENT country (name, population, capital)>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT population (#PCDATA)>
 <!ELEMENT capital (#PCDATA)>
-<!ELEMENT city (city_name, city_population)>
-<!ELEMENT city_name (#PCDATA)>
-<!ELEMENT city_population (#PCDATA)>

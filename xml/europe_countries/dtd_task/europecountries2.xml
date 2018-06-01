@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with XMLSpear -->
+<europe_countries>
+   <country>
+      <name>Austria</name>
+      <population>8747000</population>
+      <capital>Vienna</capital>
+   </country>
+   <country>
+      <name>Spain</name>
+      <population>46560000</population>
+      <capital>Madrid</capital>
+   </country>
+</europe_countries>
