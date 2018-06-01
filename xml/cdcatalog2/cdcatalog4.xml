@@ -5,7 +5,7 @@
         <artist>Bob Dylan</artist>
         <country>USA</country>
         <company>Columbia</company>
-        <price>10.90?</price>
+        <price>10.90</price>
         <year>1985</year>
     </cd>
     <cd>
@@ -13,7 +13,7 @@
         <artist>Bonnie Tyler</artist>
         <country>UK</country>
         <company>CBS Records</company>
-        <price>9.90$</price>
+        <price>9.90</price>
         <year>1988</year>
     </cd>
     <cd>
@@ -158,7 +158,7 @@
         <country>UK</country>
         <company>Capitol</company>
         <price>8.90</price>
-        <year>Mil novecientos ochenta y tres</year>
+        <year>1983</year>
     </cd>
     <cd>
         <title>Midt om natten</title>
