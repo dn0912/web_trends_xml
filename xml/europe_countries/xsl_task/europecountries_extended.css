@@ -1,0 +1,32 @@
+europe_countries {
+    background-color: #263841;
+}
+country {
+    display: block;
+    margin-bottom: 30pt;
+    margin-left: 0;
+}
+name {
+    color: #ffffff;
+    font-size: 20pt;
+}
+capital {
+    color: #f9b61a;
+    font-size: 20pt;
+    margin-left: 20pt;
+}
+population {
+    display: block;
+    color: #ffffff;
+    margin-left: 20pt;
+}
+
+city {
+    display: block;
+    margin-left: 30pt;
+}
+
+city_name, city_population {
+    color: #ffffff;
+    font-style: italic;
+}

@@ -1,18 +1,15 @@
-catalog {
+europe_countries {
   display: table;
   background-color: #ffffff;
   border-collapse: collapse;
 }
-cd {
+country, city {
   display: table-row;
 }
 
-title, artist, country, company, price, year {
+name, population, capital, city_name, city_population {
   display: table-cell;
   border: 1px solid;
   padding: 0.5ex;
-}
-
-price:before {
-  content: "$";
+  margin: 5px;
 }
