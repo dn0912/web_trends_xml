@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created with XMLSpear -->
+<europe_countries>
+   <country>
+      <name>Germany</name>
+      <population>82670000</population>
+      <capital>Berlin</capital>
+      <city>
+      	<city_name>Munich</city_name>
+      	<city_population>1290000</city_population>
+    </city>
+    <city>
+      	<city_name>Hamburg</city_name>
+	    <city_population>1700000</city_population>
+    </city>
+   </country>
+   <country>
+      <name>France</name>
+      <population>66900000</population>
+      <capital>Paris</capital>
+   </country>
+</europe_countries>
