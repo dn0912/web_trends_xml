@@ -1,0 +1,139 @@
+<html>
+   <body>
+      <h1>CD catalog</h1>
+      <ol>
+         <li>
+            <p><span style="color:red">Empire Burlesque</span><br>Bob Dylan,
+               1985<br>
+               $10.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Hide your heart</span><br>Bonnie Tyler,
+               1988<br>
+               $9.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Greatest Hits</span><br>Dolly Parton,
+               1982<br>
+               $9.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Still got the blues</span><br>Gary Moore,
+               1990<br>
+               $10.20
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Eros</span><br>Eros Ramazzotti,
+               1997<br>
+               $9.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">One night only</span><br>Bee Gees,
+               1998<br>
+               $10.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Sylvias Mother</span><br>Dr.Hook,
+               1973<br>
+               $8.10
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Maggie May</span><br>Rod Stewart,
+               1990<br>
+               $8.50
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Romanza</span><br>Andrea Bocelli,
+               1996<br>
+               $10.80
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">When a man loves a woman</span><br>Percy Sledge,
+               1987<br>
+               $8.70
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Black angel</span><br>Savage Rose,
+               1995<br>
+               $10.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">1999 Grammy Nominees</span><br>Many,
+               1999<br>
+               $10.20
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">For the good times</span><br>Kenny Rogers,
+               1995<br>
+               $8.70
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Big Willie style</span><br>Will Smith,
+               1997<br>
+               $9.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Tupelo Honey</span><br>Van Morrison,
+               1971<br>
+               $8.20
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Soulsville</span><br>Jorn Hoel,
+               1996<br>
+               $7.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">The very best of</span><br>Cat Stevens,
+               1990<br>
+               $8.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Stop</span><br>Sam Brown,
+               1988<br>
+               $8.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Bridge of Spies</span><br>T`Pau,
+               1987<br>
+               $7.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Private Dancer</span><br>Tina Turner,
+               1983<br>
+               $8.90
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Midt om natten</span><br>Kim Larsen,
+               1983<br>
+               $7.80
+            </p>
+         </li>
+         <li>
+            <p><span style="color:red">Pavarotti Gala Concert</span><br>Luciano Pavarotti,
+               1991<br>
+               $9.90
+            </p>
+         </li>
+      </ol>
+   </body>
+</html>
